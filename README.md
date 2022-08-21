@@ -23,3 +23,7 @@
 
 6. [FK_IOT_Server](https://github.com/skyqin1999/FK_IOT_Server)
     > 给以上的设备提供服务支持
+
+## 整体框图
+
+![image](https://user-images.githubusercontent.com/44914100/185774742-522e4306-0eba-4ed9-96e5-ad75b503d60c.png)
